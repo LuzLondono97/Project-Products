@@ -1,0 +1,11 @@
+.user-container{
+    margin-top: 10px;
+}
+
+h2{
+    flex: 1.2px;
+}
+
+.container-name{
+    display: flex;
+}
